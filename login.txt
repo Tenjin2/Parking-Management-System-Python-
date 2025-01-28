@@ -1,0 +1,10 @@
+345 dhruv faculty 1 123456
+321 aakash admin 1 112233
+310 aarav faculty 2 14567
+315 aditya faculty 3 45200
+320 sarthak faculty 1 13456
+220 vinay faculty 1 13245
+210 rishi faculty 1 13245
+120 vivek faculty 2 3456
+340 pranjal faculty 2 2345
+123 aman faculty 1 1234

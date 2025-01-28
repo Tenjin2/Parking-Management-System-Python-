@@ -1,0 +1,6 @@
+id no.->220 parked 2 wheeler on D1 at [Wed Mar 20 19:33:14 2024]
+id no.->340 parked 2 wheeler on D1 at [Wed Mar 20 19:45:12 2024]
+id no.->123 parked 4 wheeler on A1 at [Wed Mar 20 19:53:29 2024]
+id no.->345 parked 4 wheeler on A2 at [Tue Mar 26 10:03:59 2024]
+id no.->315 parked truck on E1 at [Tue Mar 26 10:10:44 2024]
+id no.->345 parked 4 wheeler on A5 at [Tue Apr 23 10:22:29 2024]
